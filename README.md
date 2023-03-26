@@ -1,43 +1,37 @@
-# 👋 MoonVo Rehberi
+---
+description: >-
+  MoonVo websitesinin ve bot komutlarının kullanım rehberi hakkında detaylı
+  bilgiyi bu dokümanda bulabilirsiniz.
+---
 
-{% hint style="info" %}
+# MoonVo Rehberi
+
+
+
+{% hint style="warning" %}
 **Bildirim:** Ülkemizde Yaşanan Depremlerden Dolayı Güncellemeler'de aksaklık yaşanmıştır. Sistemimizde Alınan Tüm Planların Ücretleri Direkt Olarak Deprem Bölgelerine Gönderilecektir.
 {% endhint %}
 
-## Overview
+## Genel Rehber:
 
-Here are a couple of example overviews from products with really great docs:
+Sizlerin çok merak ettiği sıkça sorulan sorular sayfamızda aradığın soruyu, sunucu kurmayı ve birçok bilgiyi aynı zamanda bu sayfada bulabilirsin.
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
->
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
-## Quick links
-
-{% content-ref url="overview/what-we-do.md" %}
-[what-we-do.md](overview/what-we-do.md)
+{% content-ref url="hakkinda/sss.md" %}
+[sss.md](hakkinda/sss.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/our-features.md" %}
-[our-features.md](overview/our-features.md)
+## Bot Kullanım Rehberi:
+
+Botu Nasıl Kullanıcağınız hakkında tüm bilgilere buradan ulaşabilirsiniz
+
+{% content-ref url="bot-rehberi/sunucu-nasil-kurulur.md" %}
+[sunucu-nasil-kurulur.md](bot-rehberi/sunucu-nasil-kurulur.md)
 {% endcontent-ref %}
 
-## Get Started
-
-We've put together some helpful guides for you to get setup with our product quickly and easily.
-
-{% content-ref url="fundamentals/getting-set-up/" %}
-[getting-set-up](fundamentals/getting-set-up/)
-{% endcontent-ref %}
-
-{% content-ref url="fundamentals/getting-set-up/setting-permissions.md" %}
-[setting-permissions.md](fundamentals/getting-set-up/setting-permissions.md)
+{% content-ref url="bot-rehberi/tum-komutlar.md" %}
+[tum-komutlar.md](bot-rehberi/tum-komutlar.md)
 {% endcontent-ref %}
 
 {% content-ref url="fundamentals/getting-set-up/inviting-members.md" %}

@@ -1,4 +1,4 @@
-# 📪 Making a post
+# Sunucu Nasıl Kurulur
 
 ## Step 1 - Start journalling
 

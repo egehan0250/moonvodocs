@@ -1,16 +1,16 @@
 # Table of contents
 
-* [👋 MoonVo Rehberi](README.md)
+* [MoonVo Rehberi](README.md)
 
-## Overview
+## HAKKINDA
 
-* [💡 What we do](overview/what-we-do.md)
-* [✨ Our Features](overview/our-features.md)
+* [Sıkça Sorulan Sorular](hakkinda/sss.md)
 
-## Product Guides
+## BOT REHBERİ
 
-* [📪 Making a post](product-guides/making-a-post.md)
-* [📎 Understanding Projects](product-guides/understanding-projects.md)
+* [Sunucu Nasıl Kurulur](bot-rehberi/sunucu-nasil-kurulur.md)
+* [Tüm Komutlar](bot-rehberi/tum-komutlar.md)
+* [Sistemler](bot-rehberi/sistemler.md)
 
 ## Fundamentals
 

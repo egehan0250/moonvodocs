@@ -1,4 +1,4 @@
-# 📎 Understanding Projects
+# Tüm Komutlar
 
 ## How Projects work
 
