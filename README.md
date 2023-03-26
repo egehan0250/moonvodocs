@@ -1,7 +1,7 @@
 # 👋 MoonVo Rehberi
 
 {% hint style="info" %}
-**Bildirim:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
+**Bildirim:** Ülkemizde Yaşanan Depremlerden Dolayı Güncellemeler'de aksaklık yaşanmıştır. Sistemimizde Alınan Tüm Planların Ücretleri Direkt Olarak Deprem Bölgelerine Gönderilecektir.
 {% endhint %}
 
 ## Overview
