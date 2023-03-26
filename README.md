@@ -12,6 +12,12 @@ description: >-
 **Bildirim:** Ülkemizde Yaşanan Depremlerden Dolayı Güncellemeler'de aksaklık yaşanmıştır. Sistemimizde Alınan Tüm Planların Ücretleri Direkt Olarak Deprem Bölgelerine Gönderilecektir.
 {% endhint %}
 
+{% hint style="success" %}
+
+**Bildirim:** İstediğin Konuyu Burada bulamadın mı Discord üzerinden bizden yardım almaya çekinme.
+
+{% endhint %}
+
 ## Genel Rehber:
 
 Sizlerin çok merak ettiği sıkça sorulan sorular sayfamızda aradığın soruyu, sunucu kurmayı ve birçok bilgiyi aynı zamanda bu sayfada bulabilirsin.
