@@ -28,7 +28,13 @@ MoonVo profil sistemi ile birbirlerinizi takip edebilir, sunucularınızı göre
 ## Bakiye Nasıl Alınır?
 
 Bir firma ile anlaşma yapmadığımız için şuanlık papara üzerinden para göndererek alabilirsiniz.\
-1196100422 Adlı papara no'suna Kaç TL Bakiye yüklemek istiyorsanız okadar para göndermelisiniz açıklama kısmına ise Dıscord ID'nizi yazmalısınız Unutmayın 1 Bakiye = 1TL Bakiye iade'si yapılmamaktadır.
+1196100422 Adlı papara no'suna Kaç TL Bakiye yüklemek istiyorsanız okadar para göndermelisiniz açıklama kısmına ise Dıscord ID'nizi yazmalısınız Unutmayın 1 Bakiye = 1TL Bakiye iade'si yapılmamaktadır. ıban için discord üzerinden benimle iletişime geçip hangi banka olduğunu söylemeniz yeterli her banka ile işlem yapabilirsiniz.
+
+## Destek Talebi Nasıl  Açarım?
+
+Sizin için kolaylaştırmak amaçlı DISCORD üzerinden 3 adet kanallı bilet sistemi yaptık #create-support kanalı ile önemli sorular için talep açabilirsiniz #fast-support üzerinden ise hem yetkili arkadaşlardan hemde kullanıcılardan hızlıca yardım alabilirsiniz #support kanalından forum açarak kolay bir şekilde ordanda iletebilirsiniz veya Sitemiz üzerinden Destek talebi açın Dashboard'a gidin ardından Destek Taleplerim bölümüne gidin ve talep oluşturun aynı sayfadan talebinize gelen cevapları kontrol edebilir ve geri cevap verebilirsiniz talebiniz için öncelik ayarliyabilirsiniz. En iyi Destek sistemi Sitemiz üzerinde olandır. En Detaylı oradan destek alabilirsiniz. ve support@moonvo.com.tr mail adresine mail atarak destek alabilirsiniz geri cevap süresi 1-3 gündür.
+
+
 
 
 
