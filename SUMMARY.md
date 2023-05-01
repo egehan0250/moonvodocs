@@ -11,7 +11,7 @@
 * [Sunucu Nasıl Kurulur](bot-rehberi/sunucu-nasil-kurulur.md)
 * [Tüm Komutlar](bot-rehberi/tum-komutlar.md)
 * [Site Haritası](bot-rehberi/site-haritasi.md)
-* [Sistemler](bot-rehberi/sistemler.md)
+* [Servisler](bot-rehberi/sistemler.md)
 
 ## Fundamentals
 
